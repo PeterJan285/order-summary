@@ -1,12 +1,16 @@
-# 🛠 Order card challenge
+# 🛠 CSS - Order card 
 
 # 🔗 [Live Preview](https://kind-jackson-eac8ac.netlify.app/)
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
-Thanks for checking out my one of many practice projects.
+- Today's challenge is very simple and it is the one I did among the first on my journey, it's a card with a button, here I practiced flexbox and variables mainly.
 
-- In this challenge I build a basic order card using basic HTML and CSS, the card is also responsive on all devices
+- [Frontend Mentor](https://www.frontendmentor.io) is a website that challenges new developers to improve their coding skills by building realistic projects, it provides all the building materials.
 
-[Frontend Mentor](https://www.frontendmentor.io/profile/PeterJan285) is a community that helps programmers improve their coding skills by building realistic projects as challenges.
+### Languages and features 👨‍💻 
+
+- CSS: variables, flexbox, responsive, background properties.
+
+Thanks for checking out my projects.
